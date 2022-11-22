@@ -249,7 +249,8 @@
                         </div>
                     </div>
                     <div class="col-lg-6">
-                        <div id="map" class="contacts__map">
+                        <div class="contacts__map">
+                            <div style="width:100%;height:400px;margin-left:auto;margin-right:auto" class="wp-block-gutenberg-yandex-block-map" data-params="{&quot;height&quot;:&quot;400px&quot;,&quot;width&quot;:&quot;100%&quot;,&quot;lat&quot;:55.738164984877976,&quot;lon&quot;:37.50722765922547,&quot;pm_lat&quot;:55.738164984877976,&quot;pm_lon&quot;:37.50722765922547,&quot;pm_balloon&quot;:&quot;&quot;,&quot;pm_hint&quot;:&quot;&quot;,&quot;zoom&quot;:16,&quot;has_placemark&quot;:true}"></div>
                         </div>
                     </div>
                 </div>
